@@ -14,7 +14,6 @@ namespace IIILabDarbugniusIST20
         public int ivestasSkaiciusConstruct = 0;
         
         //Konstruktorius. 
-        //beprasme eilute
         public sekosSkaiciavimas(int ivestasSkaicius)
         {
             sekosSkaicius = ivestasSkaicius;
