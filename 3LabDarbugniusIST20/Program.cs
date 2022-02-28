@@ -3,7 +3,8 @@
     internal class reiksmiuAtspausdinimas
     {
         //Sukuriami objektai, atspausdinami atsakymai ir suskaiciuojamas programos vygdimo laikas.
-        //Beprasme eilute
+        
+        //Niekas
         static void Main(string[] args)
         {
             int ivestasSkaicius;
